@@ -1,0 +1,14 @@
+{
+    "EDXR": [
+        {
+            "runway_designation_number": "12L",
+            "landing_distance_available": 510,
+            "landing_distance_unit": "M"
+        },
+        {
+            "runway_designation_number": "30R",
+            "landing_distance_available": 510,
+            "landing_distance_unit": "M"
+        }
+    ]
+}

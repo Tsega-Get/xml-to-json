@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIXM-Snapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.aixm.aero/schema/4.5/AIXM-Snapshot.xsd" version="4.5" effective="2024-02-22T00:00:00" origin="EAD-SDO" created="2024-02-16T00:00:00">
+	<Rdd>
+		<RddUid mid="1234">
+			<RdnUid mid="123456">
+				<RwyUid mid="123456">
+					<AhpUid mid="345678">
+						<codeId>
+							EDXR
+						</codeId>
+					</AhpUid>
+					<txtDesig>
+						RWY-12L/30R
+					</txtDesig>
+				</RwyUid>
+				<txtDesig>
+					12L
+				</txtDesig>
+			</RdnUid>
+			<codeType>
+				LDA
+			</codeType>
+			<codeDayPeriod>
+				D
+			</codeDayPeriod>
+		</RddUid>
+		<valDist>
+			510
+		</valDist>
+		<uomDist>
+			M
+		</uomDist>
+	</Rdd>
+	<Rdd>
+		<RddUid mid="1234">
+			<RdnUid mid="123456">
+				<RwyUid mid="123456">
+					<AhpUid mid="345678">
+						<codeId>
+							EDXR
+						</codeId>
+					</AhpUid>
+					<txtDesig>
+						RWY-12L/30R
+					</txtDesig>
+				</RwyUid>
+				<txtDesig>
+					30R
+				</txtDesig>
+			</RdnUid>
+			<codeType>
+				LDA
+			</codeType>
+			<codeDayPeriod>
+				D
+			</codeDayPeriod>
+		</RddUid>
+		<valDist>
+			510
+		</valDist>
+		<uomDist>
+			M
+		</uomDist>
+	</Rdd>
+</AIXM-Snapshot>
