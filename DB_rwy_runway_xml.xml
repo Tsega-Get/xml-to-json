@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<AIXM-Snapshot xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.aixm.aero/schema/4.5/AIXM-Snapshot.xsd" version="4.5" effective="2024-02-22T00:00:00" origin="EAD-SDO" created="2024-02-16T00:00:00">
+	<Rwy>
+		<RwyUid mid="12345">
+			<AhpUid mid="123456">
+				<codeId>
+					ABCD
+				</codeId>
+			</AhpUid>
+			<txtDesig>
+				RWY-03/21GUD
+			</txtDesig>
+		</RwyUid>
+	</Rwy>
+	<Rwy>
+		<RwyUid mid="345435">
+			<AhpUid mid="45345645687852">
+				<codeId>
+					BCDE
+				</codeId>
+			</AhpUid>
+			<txtDesig>
+				RWY-07L/25R
+			</txtDesig>
+		</RwyUid>
+	</Rwy>
+	<Rwy>
+		<RwyUid mid="19102456045">
+			<AhpUid mid="19145602043">
+				<codeId>
+					FFFN
+				</codeId>
+			</AhpUid>
+			<txtDesig>
+				RWY-06/24
+			</txtDesig>
+		</RwyUid>
+	</Rwy>
+	<Rwy>
+		<RwyUid mid="19104565462069">
+			<AhpUid mid="1910rtyrht2043">
+				<codeId>
+					FFFN
+				</codeId>
+			</AhpUid>
+			<txtDesig>
+				RWY-12/30U
+			</txtDesig>
+		</RwyUid>
+	</Rwy>
+	<Rwy>
+		<RwyUid mid="19102rtyrt099">
+			<AhpUid mid="19102456567043">
+				<codeId>
+					FFFN
+				</codeId>
+			</AhpUid>
+			<txtDesig>
+				RWY-18/36
+			</txtDesig>
+		</RwyUid>
+	</Rwy>
+</AIXM-Snapshot>

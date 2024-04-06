@@ -1,0 +1,58 @@
+{
+    "ABCD": [
+        {
+            "runway_designation_number": "03",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        },
+        {
+            "runway_designation_number": "21GUD",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        }
+    ],
+    "BCDE": [
+        {
+            "runway_designation_number": "07L",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        },
+        {
+            "runway_designation_number": "25R",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        }
+    ],
+    "FFFN": [
+        {
+            "runway_designation_number": "06",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        },
+        {
+            "runway_designation_number": "24",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        },
+        {
+            "runway_designation_number": "12",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        },
+        {
+            "runway_designation_number": "30U",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        },
+        {
+            "runway_designation_number": "18",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        },
+        {
+            "runway_designation_number": "36",
+            "landing_distance_available": "",
+            "landing_distance_unit": ""
+        }
+    ]
+}
