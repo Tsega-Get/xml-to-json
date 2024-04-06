@@ -1,1 +1,1 @@
-#xml files are somple file to extract incase if you have large xml file and you want to extract to json you can replace you xml
+XML files are simple to extract. In case you have a large XML file and you want to convert it to JSON, you can replace your XML.
